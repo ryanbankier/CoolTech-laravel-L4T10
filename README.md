@@ -1,3 +1,27 @@
+# CoolTech webapp - Laravel
+
+This project uses the PHP framework - Laravel to create a functioning web app that does the following:
+
+- Displays 5 recent articles on the home page
+
+- The first paragraph of the article is displayed with read more to view full article
+
+- Articles headings when clicked will show the full article
+
+- Each article is categorised and tagged
+
+- All categories and tags are linked 
+
+- Links will display articles with category or tag when clicked
+
+- User authentication and registration
+
+- Admin user - can edit, delete and create articles
+
+- Author user - create articles
+
+# Framework
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
